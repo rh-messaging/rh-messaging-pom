@@ -10,7 +10,27 @@
    <packaging>pom</packaging>
 
    <name>Red Hat Messaging POM</name>
+   <url>https://github.com/rh-messaging/rh-messaging-pom</url>
    <description>This is a shared POM parent for Red Hat Messaging Maven projects</description>
+
+
+   <scm>
+      <url>https://github.com/rh-messaging/rh-messaging-pom</url>
+   </scm>
+
+   <licenses>
+      <license>
+         <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+      </license>
+   </licenses>
+
+   <developers>
+      <developer>
+         <name>Andy Taylor</name>
+         <email>ataylor@redhat.com</email>
+         <organization>Red Hat</organization>
+      </developer>
+   </developers>
 
    <distributionManagement>
       <repository>
