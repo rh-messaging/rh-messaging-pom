@@ -12,7 +12,7 @@
 
    <groupId>org.jboss.rh-messaging</groupId>
    <artifactId>rh-messaging-pom</artifactId>
-   <version>2.0-0</version>
+   <version>2.0-SNAPSHOT</version>
    <packaging>pom</packaging>
 
    <name>Red Hat Messaging POM</name>
